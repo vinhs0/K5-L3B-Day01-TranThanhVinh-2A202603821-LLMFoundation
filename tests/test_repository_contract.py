@@ -6,7 +6,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-NOTEBOOK_PATH = ROOT / "src" / "day01_spam_ml_dl_embedding_llm.ipynb"
+NOTEBOOK_PATH = ROOT / "report" / "individual" / "day01_lab.ipynb"
 
 STUDENT_TODOS = [
     "vectorize",
